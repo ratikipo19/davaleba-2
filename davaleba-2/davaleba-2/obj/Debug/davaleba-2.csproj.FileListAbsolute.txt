@@ -1,0 +1,10 @@
+C:\Users\dea.kapanadze\Desktop\davaleba-2\davaleba-2\bin\Debug\davaleba-2.exe.config
+C:\Users\dea.kapanadze\Desktop\davaleba-2\davaleba-2\bin\Debug\davaleba-2.exe
+C:\Users\dea.kapanadze\Desktop\davaleba-2\davaleba-2\bin\Debug\davaleba-2.pdb
+C:\Users\dea.kapanadze\Desktop\davaleba-2\davaleba-2\obj\Debug\davaleba-2.csproj.AssemblyReference.cache
+C:\Users\dea.kapanadze\Desktop\davaleba-2\davaleba-2\obj\Debug\davaleba_2.Form1.resources
+C:\Users\dea.kapanadze\Desktop\davaleba-2\davaleba-2\obj\Debug\davaleba_2.Properties.Resources.resources
+C:\Users\dea.kapanadze\Desktop\davaleba-2\davaleba-2\obj\Debug\davaleba-2.csproj.GenerateResource.cache
+C:\Users\dea.kapanadze\Desktop\davaleba-2\davaleba-2\obj\Debug\davaleba-2.csproj.CoreCompileInputs.cache
+C:\Users\dea.kapanadze\Desktop\davaleba-2\davaleba-2\obj\Debug\davaleba-2.exe
+C:\Users\dea.kapanadze\Desktop\davaleba-2\davaleba-2\obj\Debug\davaleba-2.pdb
